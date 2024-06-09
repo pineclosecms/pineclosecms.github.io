@@ -83,7 +83,7 @@ input, textarea, button, select, label { font-family: inherit; }
 
 /*  base : entry
 /* ------------------------------------ */
-.entry { font-size: 18px; line-height: 1.6em; }
+.entry { font-size: 18px; line-height: 1.4em; }
 .entry a { text-decoration: underline; }
 .entry hr { border: 0; background: rgba(255,255,255,0.12); height: 2px; width: 30%; margin: 40px auto; }
 .entry p,
